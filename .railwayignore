@@ -1,0 +1,11 @@
+.android-build-tools/
+android-app/.gradle/
+android-app/build/
+desktop/node_modules/
+desktop/release/
+desktop/backend/
+distribution/
+node_modules/
+data.json
+*.log
+.env

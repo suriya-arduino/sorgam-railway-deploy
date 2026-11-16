@@ -1,0 +1,12 @@
+{
+  "name": "sorgam-network-local",
+  "version": "1.0.0",
+  "private": true,
+  "description": "SORGAM hosted demo app with persistent file storage",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}

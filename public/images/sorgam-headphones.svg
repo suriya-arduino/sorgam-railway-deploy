@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 560" role="img" aria-labelledby="title desc">
+  <title id="title">SORGAM wireless headphones</title>
+  <desc id="desc">Forest green wireless headphones on a soft sage studio background.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#eff5e9"/><stop offset="1" stop-color="#cbdcc8"/></linearGradient>
+    <linearGradient id="cup" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#345e46"/><stop offset=".55" stop-color="#183b2e"/><stop offset="1" stop-color="#102b24"/></linearGradient>
+    <linearGradient id="metal" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#dfe9d6"/><stop offset=".5" stop-color="#a9bea8"/><stop offset="1" stop-color="#718b77"/></linearGradient>
+    <filter id="shadow" x="-.3" y="-.3" width="1.6" height="1.8"><feGaussianBlur stdDeviation="14"/></filter>
+  </defs>
+  <rect width="720" height="560" rx="34" fill="url(#bg)"/>
+  <circle cx="105" cy="92" r="84" fill="#fff" opacity=".32"/><circle cx="642" cy="452" r="138" fill="#91b392" opacity=".18"/>
+  <path d="M48 421c87-49 171-45 253-14s171 40 291-11" fill="none" stroke="#fff" stroke-width="3" opacity=".45"/>
+  <ellipse cx="361" cy="430" rx="184" ry="30" fill="#244c37" opacity=".22" filter="url(#shadow)"/>
+  <g transform="rotate(-8 360 278)">
+    <path d="M220 297V226c0-96 62-158 140-158s140 62 140 158v71" fill="none" stroke="#78927b" stroke-width="37" stroke-linecap="round"/>
+    <path d="M220 292V226c0-88 56-143 140-143s140 55 140 143v66" fill="none" stroke="url(#metal)" stroke-width="23" stroke-linecap="round"/>
+    <path d="M221 238v86" stroke="#d6e3d2" stroke-width="13" stroke-linecap="round"/><path d="M499 238v86" stroke="#d6e3d2" stroke-width="13" stroke-linecap="round"/>
+    <rect x="173" y="266" width="110" height="174" rx="42" fill="#73907a" opacity=".44"/>
+    <rect x="165" y="254" width="112" height="176" rx="42" fill="url(#cup)"/>
+    <rect x="178" y="270" width="84" height="145" rx="34" fill="#294c39" stroke="#91aa8d" stroke-width="2"/>
+    <rect x="192" y="283" width="58" height="119" rx="28" fill="#162f27"/>
+    <path d="M208 295c-9 20-10 72 0 94" fill="none" stroke="#719279" stroke-width="4" stroke-linecap="round" opacity=".7"/>
+    <rect x="437" y="266" width="110" height="174" rx="42" fill="#73907a" opacity=".44"/>
+    <rect x="443" y="254" width="112" height="176" rx="42" fill="url(#cup)"/>
+    <rect x="458" y="270" width="84" height="145" rx="34" fill="#294c39" stroke="#91aa8d" stroke-width="2"/>
+    <rect x="472" y="283" width="58" height="119" rx="28" fill="#162f27"/>
+    <path d="M514 295c9 20 10 72 0 94" fill="none" stroke="#719279" stroke-width="4" stroke-linecap="round" opacity=".7"/>
+    <path d="M193 365h7m-7 12h7m-7 12h7" stroke="#e4bd59" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="520" cy="365" r="5" fill="#e4bd59"/>
+  </g>
+  <g fill="#254c38" font-family="Arial,sans-serif"><text x="360" y="489" text-anchor="middle" font-size="17" font-weight="700" letter-spacing="5">SORGAM · FORESTWAVE</text><text x="360" y="516" text-anchor="middle" font-size="11" letter-spacing="2" opacity=".65">WIRELESS AUDIO · DEMO PRODUCT ART</text></g>
+</svg>
